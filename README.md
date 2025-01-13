@@ -18,16 +18,19 @@ LaunchLane is a powerful pre-launch waitlist and payment tool designed specifica
 ## ✨ Features
 
 - **🔐 Waitlist + Stripe Integration**
+
   - Seamlessly collect emails and secure early payments
   - Flexible pricing tiers and payment options
   - Secure payment processing through Stripe
 
 - **⭐ Early Access & Upsells**
+
   - Create exclusive early-bird offers
   - Design tiered pricing strategies
   - Offer premium bundles and upgrades
 
 - **📊 Analytics Dashboard**
+
   - Real-time conversion tracking
   - Revenue projections and insights
   - User engagement metrics
@@ -49,24 +52,28 @@ LaunchLane is a powerful pre-launch waitlist and payment tool designed specifica
 ## 🗺 Roadmap
 
 ### Q1 2025 (Current)
+
 - [ ] AI-powered audience insights
 - [ ] Enhanced mobile experience
 - [ ] International payment support
 - [ ] Advanced security features
 
 ### Q2 2025
+
 - [ ] Custom workflow automation
 - [ ] Advanced A/B testing
 - [ ] Multi-language support
 - [ ] Enhanced analytics
 
 ### Q3 2025
+
 - [ ] Creator collaboration tools
 - [ ] Advanced marketing suite
 - [ ] Blockchain integration
 - [ ] Community features
 
 ### Q4 2025
+
 - [ ] Enterprise solutions
 - [ ] Advanced AI recommendations
 - [ ] Global marketplace
@@ -74,9 +81,7 @@ LaunchLane is a powerful pre-launch waitlist and payment tool designed specifica
 
 ## 🚀 Getting Started
 
-```bash
-# Coming Soon
-```
+[Setup Guide](docs/setup.md)
 
 ## 📝 License
 
