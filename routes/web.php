@@ -14,6 +14,11 @@ Route::get('/', function () {
     ]);
 });
 
+
+Route::get('/config', function () {
+    return Inertia::render('Config');
+})->middleware(['auth', 'verified'])->name('config');
+
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
